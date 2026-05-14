@@ -42,6 +42,7 @@ The project focuses on:
 
 ## Main Dashboard
 
+<img width="1328" height="741" alt="image" src="https://github.com/user-attachments/assets/a3b9c6c6-8fbb-45c5-91f8-d7c40f180139" />
 
 
 ---
